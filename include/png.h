@@ -1,1 +1,1 @@
-../graphics/png/include/png.h
+../imaging/png/include/png.h

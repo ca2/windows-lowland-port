@@ -1,1 +1,1 @@
-../graphics/freeimage/include/FreeImage.h
+../imaging/freeimage/include/FreeImage.h
