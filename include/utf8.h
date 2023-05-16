@@ -1,1 +1,1 @@
-../graphics3d/assimp/contrib/utf8cpp/source/utf8.h
+../graphics3d/assimp/include/utf8.h
