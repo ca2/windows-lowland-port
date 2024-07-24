@@ -19,3 +19,7 @@
 [submodule "user-generation1"]
 	path = user-generation1
 	url = git@github.com:cpp-port/user-generation1
+[submodule "vulkan"]
+	path = vulkan
+	url = ../vulkan-port
+	branch = main
