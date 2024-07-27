@@ -1,1 +1,1 @@
-../vulkan/KTX-Software/include/ktxvulkan.h
+../graphics3d/ktx/KTX-Software/include/ktxvulkan.h

@@ -1,0 +1,1 @@
+../graphics3d/tinyusdz/tinyusdz/src/prim-type-macros.inc
