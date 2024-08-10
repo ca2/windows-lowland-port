@@ -1,1 +1,1 @@
-../graphics3d/tinygltf/tinygltf/tiny_gltf.h
+../graphics3d/tinygltf/tiny_gltf.h
